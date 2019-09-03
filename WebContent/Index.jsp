@@ -8,6 +8,6 @@
 </head>
 <body>
 <h2> index ! </h2>
-    <h2> 원격에서 수정한 내용</h2>
+ <h2>  수정한 내용</h2>
 </body>
 </html>
